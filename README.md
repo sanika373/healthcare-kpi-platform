@@ -144,4 +144,4 @@ Public dataset from the **CMS Hospital Quality Initiative**:
 ## 👩‍💻 Author
 
 **Sanika Pawar** — Senior BI Engineer  
-[LinkedIn](https://linkedin.com/in/sanikapawar) · [GitHub](https://github.com/sanikapawar)
+[LinkedIn](https://www.linkedin.com/in/sanika-pawar7481/) · [GitHub](https://github.com/sanika373?tab=repositories)
