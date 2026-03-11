@@ -59,3 +59,4 @@ CALCULATE(
     DATESINPERIOD(dim_date[full_date], LASTDATE(dim_date[full_date]), -3, MONTH)
 )
 ```
+![Dashboard Preview](dashboard/screenshot.png)
